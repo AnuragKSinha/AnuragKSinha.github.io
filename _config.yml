@@ -18,7 +18,7 @@ email: sinhaanurag18@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am passionate about coding,and mad about learning new tech things.Will try to share my
   Problem Solving Skills along with high level and low level design concepts in the form of
-  series of blogs, in which i will try to explain optimal solution to real time problems and interesting 
+  series of blogs, in which i will explain optimal solution to real time problems and interesting 
   Algorithm and Data Structure Questions which are frequently asked in tech gaints.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
